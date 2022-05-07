@@ -201,7 +201,7 @@ body._lock {
 	}
 }
 .main-screen {
-	background: url(/img/bg_1.png) center / cover no-repeat;
+	background: url(../img/bg_1.png) center / cover no-repeat;
 	min-width: 100vw;
 	min-height: 100vh;
 }
